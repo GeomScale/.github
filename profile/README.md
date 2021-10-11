@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/3660366/134188437-99ff904a-5b1d-454f-bfbc-eba94ef63c20.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/3660366/134188437-99ff904a-5b1d-454f-bfbc-eba94ef63c20.png" align="center" height="100"></p>
 
 [GeomScale](https://geomscale.github.io) is a research and development project that delivers open source code for state-of-the-art algorithms at the intersection of data science, optimization, geometric, and statistical computing.
 
